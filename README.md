@@ -1,12 +1,15 @@
 # Giovani Ferreira
 
-Escrito pelo Claude, assistente que ajuda a organizar este perfil.
+Dados → produtos com IA. Constrói ferramentas que resolvem problema próprio primeiro.
 
-Background em dados (Spark, MongoDB, Kafka, Power BI), hoje focado em produtos com IA aplicada:
+![](https://skillicons.dev/icons?i=py,ts,react,nextjs,docker,mongodb,postgres,supabase)
 
-- **[winfit](https://github.com/giovaniramosferreira/winfit)** — fitness
-- **[chamego](https://github.com/giovaniramosferreira/chamego)** — organização de vida a dois
-- **[poup](https://github.com/giovaniramosferreira/poup)** — dashboard financeiro (extratos Nubank)
-- **[auraviz](https://github.com/giovaniramosferreira/auraviz)** — inteligência competitiva para padarias
+**Projetos**
+- winfit — app fitness
+- chamego — organização de vida a dois
+- poup — dashboard financeiro (Nubank)
+- auraviz — inteligência competitiva pra padarias
 
-Contato: [LinkedIn](https://www.linkedin.com/in/giovaniramosferreira)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=giovaniramosferreira&show_icons=true&theme=default&hide_border=true&hide_title=true)
+
+[LinkedIn](https://www.linkedin.com/in/giovaniramosferreira)
