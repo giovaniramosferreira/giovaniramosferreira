@@ -2,6 +2,8 @@
 
 15 anos com dados — hoje construindo produtos com IA aplicada.
 
+**[giovaniramosferreira.github.io](https://giovaniramosferreira.github.io/)**
+
 ![](https://skillicons.dev/icons?i=py,ts,react,nextjs,docker,mongodb,postgres,supabase)
 
 **Produtos**
